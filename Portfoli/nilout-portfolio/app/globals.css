@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao+Looped:wght@100;200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-notoSansLaoLooped: 'Noto Sans Lao Looped', sans-serif;
+}
+
+
+@tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  @layer base {
+    body{
+      @apply  bg-primary text-white leading-loose;
+      font-family: var(--font-notoSansLaoLooped);
+    }
+    .h1{
+        @apply text-[48px] xl:text-[80px] leading-[1.1] font-semibold;
+    }
+    .h2{
+        @apply text-[36px] xl:text-[48px] leading-[1.1] font-semibold;
+    }
+    .h3{
+        @apply text-[20px] xl:text-[24px] leading-[1.1] font-semibold;
+    }
+    
+    @keyframes spin {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+@layer components {
+  .bubble {
+    @apply relative w-8 h-8 m-2;
+  }
+
+  .heart {
+    @apply absolute w-full h-full fill-current text-red-500 animate-ping;
+  }
+}
+
+
+  }
