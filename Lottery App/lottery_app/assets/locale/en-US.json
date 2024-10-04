@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "Personal Information",
+    "profile": "Settings",
+    "break": "Break",
+    "homepage": "Homepage",
+    "settingprofile": "Profile Settings",
+    "changeLang": "Languages",
+    "privacy": "Privacy Policy",
+    "manuals": "Manuals",
+    "Lao": "Lao",
+    "English": "English",
+    "chart": "Chart",
+    "press": "Press In to Work",
+    "pressoutwork": "Press Out Work",
+    "nodata": "No data",
+    "lastcheckin": "Last Checkin",
+    "lastcheckout": "Last Checkout",
+    "dayoff": "DayOffs",
+    "typedayoff": "TypeDayOff",
+    "historydayoff": "History",
+    "submit": "Submit",
+    "history": "History",
+    "graph": "Graph",
+    "calendar": "Calendar",
+    "checkin": "CheckIn",
+    "checkout": "CheckOut",
+    "bill": "Bill",
+    "share": "Share"
+  }
+}

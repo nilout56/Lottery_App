@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "ຕັ້ງຄ່າ",
+    "profile": "ຕັ້ງຄ່າ",
+    "homepage": "ໜ້າຫຼັກ",
+    "bill": "ບິນເລກ",
+    "share": "ແບ່ງປັນ",
+    "settingprofile": "ຕັ້ງຄ່າບັນຊີຜູ້ໃຊ້ງານ",
+    "changeLang": "ພາສາ",
+    "privacy": "ນະໂຍບາຍສ່ວນບຸກຄົນ",
+    "manuals": "ຄູ່ມື",
+    "Lao": "ພາສາລາວ",
+    "English": "ພາສາອັງກິດ",
+    "chart": "ສະຖິຕິ",
+    "press": "ກົດເຂົ້າວຽກ",
+    "pressoutwork": "ກົດອອກວຽກ",
+    "nodata": "ບໍ່ມີຂໍ້ມູນ",
+    "lastcheckin": "ວັນເວລາກົດເຂົ້າວຽກລ່າສຸດ",
+    "lastcheckout": "ວັນເວລາກົດອອກວຽກລ່າສຸດ",
+    "dayoff": "ການລາພັກ",
+    "typedayoff": "ປະເພດ",
+    "historydayoff": "ປະຫວັດລາພັກ",
+    "submit": "ສົ່ງຟອມ",
+    "history": "ປະຫວັດ",
+    "graph": "ກຣາຟ",
+    "calendar": "ປະຕິທິນ",
+    "checkin": "ເຂົ້າວຽກ",
+    "checkout": "ອອກວຽກ"
+  }
+}
